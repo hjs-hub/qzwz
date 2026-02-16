@@ -4,4 +4,4 @@ No part of this work may be reproduced, distributed, or transmitted in any form 
 
 使用turbowarp制作的校园生活类扮演游戏，由DKsoft制作
 
-[途径说了一句话@bilibili](https://bilibili.com/space/3493123397257961)
+[途径说了一句话@bilibili](https://space.bilibili.com/3493123397257961)
